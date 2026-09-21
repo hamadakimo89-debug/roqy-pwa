@@ -12,13 +12,13 @@
   "background_color": "#f4f9fc",
   "icons": [
     {
-      "src": "icon-192.jpg",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/jpeg",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.jpg",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/jpeg",
       "purpose": "any maskable"
